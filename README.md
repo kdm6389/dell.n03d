@@ -14,6 +14,6 @@ Specifications</br>
 The basic specs for my 3030 (3290) are:</br>
 Processor:</br>
   Intel Celeron N2807 Dual Core Speed 1.6GHz</br>
-Memory</br>
+Memory:</br>
   Flash 16GB (mini mSATA)</br>
   RAM 4GB (SODIMM) (max 8GB)</br>
