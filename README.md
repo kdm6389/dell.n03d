@@ -13,8 +13,11 @@ Specifications</br>
 
 The basic specs for my 3030 (3290) are:</br>
 Processor:</br>
-  Type: [Intel Celeron N2807 Dual Core(https://www.intel.com/content/www/us/en/products/sku/81072/intel-celeron-processor-n2807-1m-cache-up-to-2-16-ghz/specifications.html)]
+  Type: [Intel Celeron N2807 Dual Core](https://www.intel.com/content/www/us/en/products/sku/81072/intel-celeron-processor-n2807-1m-cache-up-to-2-16-ghz/specifications.html)
   Speed: 1.6GHz</br>
 Memory:</br>
   Flash: 16GB (M.2/mini mSATA)</br>
   RAM: 4GB (SODIMM) (DDR3L Laptop RAM 1600 MHz)</br>
+
+
+https://www.youtube.com/watch?v=fcPy41ed3XE
