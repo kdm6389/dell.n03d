@@ -8,7 +8,7 @@ PART NO	:	909802-02L</br>
 SUB_ASSY P/N	:	849502-02L</br>
 WYSE PROD ID	:	3290 16GMF/4GR RJ45 2DVI INTL</br>
 USB: 2xUSB2.0 + 1xUSB3.0</br>
-  Note: USB3.0 5V at 900 mA (4.5W)</br>
+`Note: USB3.0 5V at 900 mA (4.5W)`</br>
 You'll find various websites identifying it as a '3030 (3290)'.</br>
 Specifications</br>
 
