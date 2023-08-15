@@ -11,8 +11,14 @@ mount --mkdir /dev/sda1 /mnt/boot/efi
 #pacstrap -K /mnt intel-ucode # for intel cpu
 pacstrap -K /mnt base linux linux-firmware 
 
+
+
+##unable so far
 #coonect to LAN
 ip link set enp0s3 up # ip link set interface up|down, see ip-link(8). 
+systemctl start systemd-resolved
+systemctl enable systemd-resolved
+
 ip addr add 192.168.29.1/24 brd 192.168.29.1 dev enp0s3 #set maully ip 
 ip addr add 192.168.29.1/24 brd 192.168.29.1 dev enp0s3 #set maully VirtualBox
 #
