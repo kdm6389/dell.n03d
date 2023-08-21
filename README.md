@@ -1,4 +1,4 @@
-# Dell N03D (3290)
+# Dell Wyse 3030 Thin Client
 
 # H/W
 
