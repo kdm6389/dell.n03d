@@ -3,7 +3,7 @@
 # H/W
 
 Although described in various data sheets and by various suppliers as a '3030' the device label carries the information:</br>
-MODEL NO	:	N03D</br>
+MODEL NO	:	[N03D](https://www.dell.com/support/home/en-in/product-support/servicetag/0-NngwTzIxZVBRMjdtNVNUTEtobnhhUT090/docs)</br>
 PART NO	:	909802-02L</br>
 SUB_ASSY P/N	:	849502-02L</br>
 WYSE PROD ID	:	3290 16GMF/4GR RJ45 2DVI INTL</br>
